@@ -1,0 +1,28 @@
+{
+  "itemGroup.stormlightarchivemod": "Example Mod Tab",
+  "block.stormlightarchivemod.example_block": "Example Block",
+  "item.stormlightarchivemod.example_item": "Example Item",
+
+  "stormlightarchivemod.configuration.title": "Stormlight Archive MOD Configs",
+  "stormlightarchivemod.configuration.section.stormlightarchivemod.common.toml": "Stormlight Archive MOD Configs",
+  "stormlightarchivemod.configuration.section.stormlightarchivemod.common.toml.title": "Stormlight Archive MOD Configs",
+  "stormlightarchivemod.configuration.items": "Item List",
+  "stormlightarchivemod.configuration.logDirtBlock": "Log Dirt Block",
+  "stormlightarchivemod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "stormlightarchivemod.configuration.magicNumber": "Magic Number",
+
+  "item.stormlightarchivemod.shardblade": "Shardblade",
+  "item.stormlightarchivemod.full_sphere": "Full Sphere",
+  "item.stormlightarchivemod.empty_sphere": "Empty Sphere",
+  "key.categories.stormlightarchivemod": "Stormlight Archive",
+  "key.stormlightarchivemod.toggle_radiant": "Toggle Radiant Mode",
+  "entity.stormlightarchivemod.honor_spren": "Honorspren",
+  "entity.stormlightarchivemod.cultivation_spren": "Cultivationspren",
+  "key.stormlightarchivemod.surge_primary": "Surge: Primary (Gravitation / Abrasion)",
+  "key.stormlightarchivemod.surge_secondary": "Surge: Secondary (Adhesion / Progression)",
+  "key.stormlightarchivemod.toggle_shardblade": "Summon / Dismiss Shardblade",
+  "gamerule.doHighstorms": "Highstorms",
+  "gamerule.doHighstorms.description": "Periodic highstorms sweep the overworld, recharging spheres and Radiants.",
+  "death.attack.stormlightarchivemod.highstorm": "%1$s was torn apart by the highstorm",
+  "death.attack.stormlightarchivemod.highstorm.player": "%1$s was torn apart by the highstorm while fighting %2$s"
+}
